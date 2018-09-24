@@ -5,6 +5,10 @@ Canvas2D的日常学习
 ----
 * [clip_drawImage](https://github.com/yaodebian/Canvas_Study#clip_drawImage)
 
+line_attribute
+----
+* 1.线条的相关属性应用，包括lineCap、lineJoin、lineWidth、strokeStyle；
+
 clip_drawImage
 ----
 * 1.clip接口的调用方式；
